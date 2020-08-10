@@ -1,21 +1,9 @@
-# Pokemon
+# Pokemon Repo
 
-**TODO: Add description**
+A place to get pokemon via grpc.
 
-## Installation
+Start gRPC server with `mix grpc.server`.
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `pokemon` to your list of dependencies in `mix.exs`:
+ Available at `localhost:8080`.
 
-```elixir
-def deps do
-  [
-    {:pokemon, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/pokemon](https://hexdocs.pm/pokemon).
 
